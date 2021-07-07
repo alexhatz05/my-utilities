@@ -1,2 +1,2 @@
 # my-utilities
-A repository containing the utils I frequently use.
+A repository containing various utils I frequently use.
